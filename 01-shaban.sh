@@ -7,7 +7,7 @@ echo line2
 echo line3
 echo Swarna Ganesh
 echo Ganesh12345
-echo -e "swarna/nganesh"
+echo -e "swarna /n ganesh"
 # Special Characters in linux for specific purpose.
 # /n  : cursor moves to next 
 # /t  : cursor moves to tab space 
