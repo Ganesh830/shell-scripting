@@ -19,9 +19,10 @@ stat() {
 }
 
 #calling stat function
-
+stat
 
 sample() {
     yum install ntp -y
     yum install sshd -y
 }
+ sample
